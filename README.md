@@ -6,7 +6,7 @@
 
 > ###### 说明：此集锦中，每期一个技术专题，收集了[CSDN下载频道](http://download.csdn.net)相关技术领域的热门优质资源，每周一更。
 
-#### 本集锦的动态图谱演示地址请访问：[http://t.cn/Rp0TdfZ](http://t.cn/Rp0TdfZ)
+#### 本集锦的动态图谱演示地址请访问：[http://t.cn/RpjiHlF](http://t.cn/RpjiHlF)
 
 ## 第一期：区块链
 
@@ -48,3 +48,4 @@
 |微信小程序开发工具下载 windows 32位|[http://download.csdn.net/download/aixin100/9733569](http://download.csdn.net/download/aixin100/9733569)|
 |微信小程序开发工具下载 windows 64位|[http://download.csdn.net/download/aixin100/9733573](http://download.csdn.net/download/aixin100/9733573)|
 |微信小应用(百思，豆瓣电影，高德地图)|[http://download.csdn.net/download/ecstatic/9737973](http://download.csdn.net/download/ecstatic/9737973)|
+
