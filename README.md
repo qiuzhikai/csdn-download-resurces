@@ -31,4 +31,20 @@
 |:-----|:-------|
 |微信小程序demo|[http://download.csdn.net/download/a398613391/9638446](http://download.csdn.net/download/a398613391/9638446)|
 |微信小程序组件DEMO及案例|[http://download.csdn.net/download/whzhaochao/9642250](http://download.csdn.net/download/whzhaochao/9642250)|
-
+|微信小程序 - 简易情绪播放器v0.0.2版|[http://download.csdn.net/download/xiaohan1990718/9643957](http://download.csdn.net/download/xiaohan1990718/9643957)|
+|微信小程序 实例汇总 完整项目源代码|[http://download.csdn.net/download/wyx100/9670301](http://download.csdn.net/download/wyx100/9670301)|
+|微信小程序完整实例源代码|[http://download.csdn.net/download/wyx100/9670627](http://download.csdn.net/download/wyx100/9670627)|
+|微信小程序离线开发手册CHM1.1版本|[http://download.csdn.net/download/anxiaoxiong110/9672706](http://download.csdn.net/download/anxiaoxiong110/9672706)|
+|微信小程序商城完整源代码|[http://download.csdn.net/download/wyx100/9677923](http://download.csdn.net/download/wyx100/9677923)|
+|微信小程序demo|[http://download.csdn.net/download/u014607184/9681357](http://download.csdn.net/download/u014607184/9681357)|
+|《微信小程序开发文档》使用指南|[http://download.csdn.net/download/w3cschoolcn/9698261](http://download.csdn.net/download/w3cschoolcn/9698261)|
+|微信小程序源代码- 模仿今日头条|[http://download.csdn.net/download/wyx100/9709605](http://download.csdn.net/download/wyx100/9709605)|
+|微信小程序源代码-下厨房菜谱APP|[http://download.csdn.net/download/wyx100/9709607](http://download.csdn.net/download/wyx100/9709607)|
+|火车票查询(微信小程序源代码)|[http://download.csdn.net/download/wyx100/9709649](http://download.csdn.net/download/wyx100/9709649)|
+|模仿小米内置计算器(微信小程序源代码)|[http://download.csdn.net/download/wyx100/9709655](http://download.csdn.net/download/wyx100/9709655)|
+|微信小程序AES加密解密相关|[http://download.csdn.net/download/happy__everyday/9729637](http://download.csdn.net/download/happy__everyday/9729637)|
+|微信小程序 微信支付服务端集成源码|[http://download.csdn.net/download/qq_31048651/9729733](http://download.csdn.net/download/qq_31048651/9729733)|
+|wechat_web_devtools_0.12.130400_x64.exe|[http://download.csdn.net/download/qq_14880455/9732770](http://download.csdn.net/download/qq_14880455/9732770)|
+|微信小程序开发工具下载 windows 32位|[http://download.csdn.net/download/aixin100/9733569](http://download.csdn.net/download/aixin100/9733569)|
+|微信小程序开发工具下载 windows 64位|[http://download.csdn.net/download/aixin100/9733573](http://download.csdn.net/download/aixin100/9733573)|
+|微信小应用(百思，豆瓣电影，高德地图)|[http://download.csdn.net/download/ecstatic/9737973](http://download.csdn.net/download/ecstatic/9737973)|
